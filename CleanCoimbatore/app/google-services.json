@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "845533473239",
+    "firebase_url": "https://cleancoimbatore-3ac91.firebaseio.com",
+    "project_id": "cleancoimbatore-3ac91",
+    "storage_bucket": "cleancoimbatore-3ac91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845533473239:android:b39491624a3be817",
+        "android_client_info": {
+          "package_name": "com.example.cleancoimbatore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845533473239-b7hb4n9e7jpglso3bj79lskc5guprvii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cleancoimbatore",
+            "certificate_hash": "5fd0810e04b2e0a16429e61bdbb93049c6acf685"
+          }
+        },
+        {
+          "client_id": "845533473239-5n5jpfjujphsf9o9mq3r2qqvd86bjgt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Z9lQ-q9cRBNjvBLnQ2Eiat8tF1BM3_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845533473239-5n5jpfjujphsf9o9mq3r2qqvd86bjgt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
